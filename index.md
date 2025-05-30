@@ -18,7 +18,7 @@ We conduct research in artificial intelligence, focusing on machine learning and
 
 {% capture text %}
 We are committed to ensuring our work is accessible to everyone, everywhere. Our goal is to develop software, tools, datasets, and more that are openly licensed and freely shared, empowering others to use, build upon, and contribute to our projects.
-{% include button.html link="projects" text="Browse our projects" icon="fas fa-arrow-right" flip=true %}
+{% include button.html link="projects" text="Browse our projects" icon="fas fa-arrow-right" flip=false %}
 {% endcapture %} 
 {% include feature.html image="images/opensource.jpg" link="projects" title="Our projects" text=text %}
 
