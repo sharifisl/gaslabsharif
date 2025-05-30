@@ -15,38 +15,12 @@ We conduct research in artificial intelligence, focusing on machine learning and
 {% endcapture %} 
 {% include feature.html image="images/research.jpg" link="research" title="Generative AI + Creativity → Innovation" text=text %}
 
-{%
-  include feature.html
-  image="images/research.jpg"
-  link="research"
-  title="See what we've published"
-  text=text
-%}
 
 {% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
-  text=text
-%}
+We are committed to ensuring our work is accessible to everyone, everywhere. Our goal is to develop software, tools, datasets, and more that are openly licensed and freely shared, empowering others to use, build upon, and contribute to our projects.
+{% include button.html link="projects" text="Browse our projects" icon="fas fa-arrow-right" flip=true %}
+{% endcapture %} 
+{% include feature.html image="images/opensource.jpg" link="projects" title="Our projects" text=text %}
 
 {% capture text %}
 
