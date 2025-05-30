@@ -1,9 +1,9 @@
 ---
 ---
 
-# sharifisl's Website
+<!-- # sharifisl's Website -->
 
-An engaging 1-3 sentence description of your lab.
+Generative AI Systems Lab at Sharif University of Technology brings together passionate students exploring the frontiers of artificial intelligence. Supervised by Dr. Hamid Beigy, our team focuses on innovative research in generative models and AI-driven systems. We foster a collaborative and inclusive environment where new ideas and diverse perspectives are valued.
 
 {% include section.html %}
 
