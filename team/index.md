@@ -11,6 +11,8 @@ Our lab at Sharif University is built on a foundation of active collaboration an
 
 {% include section.html %}
 
+{% include list.html data="members" component="portrait" filter="role == 'prof'" %}
+
 {% include list.html data="members" component="portrait" filter="role == 'phD'" %}
 
 {% include list.html data="members" component="portrait" filter="role == 'master'" %}
@@ -36,4 +38,4 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% endcapture %} -->
 
-{% include grid.html style="square" content=content %}
+<!-- {% include grid.html style="square" content=content %} -->
