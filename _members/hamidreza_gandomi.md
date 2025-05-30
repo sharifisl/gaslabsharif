@@ -1,11 +1,11 @@
 ---
-name: Sahar Zal
-image: images/members/saharzal.jpeg
+name: Hamidreza Gandomi
+image: images/members/hamidreza_gandomi.jpg
 description: Master's student
 role: master
 links:
-  email: sahar.zal99@sharif.edu
-  linkedin: https://www.linkedin.com/in/sahar-zal-6bb64820b/
+  email: h.gandomi79@gmail.com
+  linkedin: http://www.linkedin.com/in/h-gandomi79
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

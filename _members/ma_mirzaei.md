@@ -1,11 +1,10 @@
 ---
-name: Sahar Zal
-image: images/members/saharzal.jpeg
-description: Master's student
-role: master
+name: Mohammad Ali Mirzaie
+image: images/members/MohammadAli_Mirzaie.jpeg
+description: PhD student
+role: phD
 links:
-  email: sahar.zal99@sharif.edu
-  linkedin: https://www.linkedin.com/in/sahar-zal-6bb64820b/
+  email: ma.mirzaie@sharif.edu
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

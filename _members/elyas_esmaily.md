@@ -1,11 +1,10 @@
 ---
-name: Sahar Zal
-image: images/members/saharzal.jpeg
+name: Arash Lagzian
+image: images/members/elyas_esmaeili.jpg
 description: Master's student
-role: master
+role: graduated
 links:
-  email: sahar.zal99@sharif.edu
-  linkedin: https://www.linkedin.com/in/sahar-zal-6bb64820b/
+  email: elyas.esmaeili1@gmail.com
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
