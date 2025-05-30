@@ -20,13 +20,13 @@ Our lab at Sharif University is built on a foundation of active collaboration an
 
 {% include list.html data="members" component="portrait" filter="role == 'graduated'" %}
 
-{% include section.html background="images/background_image.jpg" dark=true %}
+<!-- {% include section.html background="images/background_image.jpg" dark=true %}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
 nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-{% include section.html %}
+{% include section.html %} -->
 
 <!-- {% capture content %}
 
