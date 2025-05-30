@@ -8,11 +8,8 @@ nav:
 # {% include icon.html icon="fa-solid fa-users" %}Members
 
 {% include section.html %}
-## Phd Students
 
 {% include list.html data="members" component="portrait" filter="role == 'phD'" %}
-
-## Master Students
 
 {% include list.html data="members" component="portrait" filter="role == 'master'" %}
 
