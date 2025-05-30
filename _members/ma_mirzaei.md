@@ -1,6 +1,6 @@
 ---
 name: Mohammad Ali Mirzaie
-image: images/members/MohammadAli_Mirzaie.jpeg
+image: images/members/mohammadAli_mirzaie.jpg
 description: PhD student
 role: phD
 links:
