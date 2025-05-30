@@ -245,3 +245,687 @@
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1016/j.imavis.2024.105293
+  title: Knowledge graph construction in hyperbolic space for automatic image annotation
+  authors:
+  - Fariba Lotfi
+  - Mansour Jamzad
+  - Hamid Beigy
+  - Helia Farhood
+  - Quan Z. Sheng
+  - Amin Beheshti
+  publisher: Image and Vision Computing
+  date: '2024-11-01'
+  link: https://doi.org/g9mrhc
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s10844-023-00805-0
+  title: Prompted and integrated textual information enhancing aspect-based sentiment
+    analysis
+  authors:
+  - Xuefeng Shi
+  - Min Hu
+  - Fuji Ren
+  - Piao Shi
+  - Jiawen Deng
+  - Yiming Tang
+  publisher: Journal of Intelligent Information Systems
+  date: '2023-08-23'
+  link: https://doi.org/g9mrhd
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TPAMI.2023.3283784
+  title: Learning Hidden Graphs From Samples
+  authors:
+  - Ahmad Abniki
+  - Hamid Beigy
+  publisher: IEEE Transactions on Pattern Analysis and Machine Intelligence
+  date: '2023-10-01'
+  link: https://doi.org/g9mrhf
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.eswa.2023.119946
+  title: 'Concept drift handling: A domain adaptation perspective'
+  authors:
+  - Mahmood Karimian
+  - Hamid Beigy
+  publisher: Expert Systems with Applications
+  date: '2023-08-01'
+  link: https://doi.org/g9mrhg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.eswa.2022.119308
+  title: 'SGCSumm: An extractive multi-document summarization method based on pre-trained
+    language model, submodularity, and graph convolutional neural networks'
+  authors:
+  - Alireza Ghadimi
+  - Hamid Beigy
+  publisher: Expert Systems with Applications
+  date: '2023-04-01'
+  link: https://doi.org/g9mrhh
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/a16030135
+  title: 'Storytelling with Image Data: A Systematic Review and Comparative Analysis
+    of Methods and Tools'
+  authors:
+  - Fariba Lotfi
+  - Amin Beheshti
+  - Helia Farhood
+  - Matineh Pooshideh
+  - Mansour Jamzad
+  - Hamid Beigy
+  publisher: Algorithms
+  date: '2023-03-02'
+  link: https://doi.org/g9mrhj
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.eswa.2022.117657
+  title: Structural virality estimation and maximization in diffusion networks
+  authors:
+  - Arman Sepehr
+  - Hamid Beigy
+  publisher: Expert Systems with Applications
+  date: '2022-11-01'
+  link: https://doi.org/g9mrhk
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.eswa.2021.116433
+  title: Attention-based skill translation models for expert finding
+  authors:
+  - Zohreh Fallahnejad
+  - Hamid Beigy
+  publisher: Expert Systems with Applications
+  date: '2022-05-01'
+  link: https://doi.org/g9mrhm
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.eswa.2021.116292
+  title: Hybrid multi-document summarization using pre-trained language models
+  authors:
+  - Alireza Ghadimi
+  - Hamid Beigy
+  publisher: Expert Systems with Applications
+  date: '2022-04-01'
+  link: https://doi.org/gssnp6
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TNNLS.2020.3026572
+  title: Masked Autoencoder for Distribution Estimation on Small Structured Data Sets
+  authors:
+  - Ahmad Khajenezhad
+  - Hatef Madani
+  - Hamid Beigy
+  publisher: IEEE Transactions on Neural Networks and Learning Systems
+  date: '2021-11-01'
+  link: https://doi.org/g8rdrp
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.knosys.2020.106638
+  title: A sampling method based on distributed learning automata for solving stochastic
+    shortest path problem
+  authors:
+  - Hamid Beigy
+  - Mohammad Reza Meybodi
+  publisher: Knowledge-Based Systems
+  date: '2021-01-01'
+  link: https://doi.org/g9mrhn
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.asoc.2020.106837
+  title: A distributed density estimation algorithm and its application to naive Bayes
+    classification
+  authors:
+  - Ahmad Khajenezhad
+  - Mohammad Ali Bashiri
+  - Hamid Beigy
+  publisher: Applied Soft Computing
+  date: '2021-01-01'
+  link: https://doi.org/g9mrhp
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.patcog.2020.107449
+  title: Density peaks clustering based on density backbone and fuzzy neighborhood
+  authors:
+  - Abdulrahman Lotfi
+  - Parham Moradi
+  - Hamid Beigy
+  publisher: Pattern Recognition
+  date: '2020-11-01'
+  link: https://doi.org/g9mrhq
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.eswa.2020.113392
+  title: 'Deep submodular network: An application to multi-document summarization'
+  authors:
+  - Alireza Ghadimi
+  - Hamid Beigy
+  publisher: Expert Systems with Applications
+  date: '2020-08-01'
+  link: https://doi.org/g9mrhr
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s11227-019-03085-0
+  title: An iterative stochastic algorithm based on distributed learning automata
+    for finding the stochastic shortest path in stochastic graphs
+  authors:
+  - Hamid Beigy
+  - Mohammad Reza Meybodi
+  publisher: The Journal of Supercomputing
+  date: '2019-11-27'
+  link: https://doi.org/gmmv72
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.engappai.2020.103617
+  title: Improved K2 algorithm for Bayesian network structure learning
+  authors:
+  - Shahab Behjati
+  - Hamid Beigy
+  publisher: Engineering Applications of Artificial Intelligence
+  date: '2020-05-01'
+  link: https://doi.org/ghg49f
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s11634-019-00359-6
+  title: Learning a metric when clustering data points in the presence of constraints
+  authors:
+  - Ahmad Ali Abin
+  - Mohammad Ali Bashiri
+  - Hamid Beigy
+  publisher: Advances in Data Analysis and Classification
+  date: '2019-05-16'
+  link: https://doi.org/g9mrhs
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.pone.0227049
+  title: The Shapley value for a fair division of group discounts for coordinating
+    cooling loads
+  authors:
+  - Sasan Maleki
+  - Talal Rahwan
+  - Siddhartha Ghosh
+  - Areej Malibari
+  - Daniyal Alghazzawi
+  - Alex Rogers
+  - Hamid Beigy
+  - Nicholas R. Jennings
+  publisher: PLOS ONE
+  date: '2020-01-10'
+  link: https://doi.org/g9mrht
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.patcog.2019.107013
+  title: Supervised fuzzy partitioning
+  authors:
+  - Pooya Ashtari
+  - Fateme Nateghi Haredasht
+  - Hamid Beigy
+  publisher: Pattern Recognition
+  date: '2020-01-01'
+  link: https://doi.org/gsst67
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.engappai.2019.07.002
+  title: Sentiment analysis on stock social media for stock price movement prediction
+  authors:
+  - Ali Derakhshan
+  - Hamid Beigy
+  publisher: Engineering Applications of Artificial Intelligence
+  date: '2019-10-01'
+  link: https://doi.org/ghmj8v
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s10115-018-1266-y
+  title: 'Concept-evolution detection in non-stationary data streams: a fuzzy clustering
+    approach'
+  authors:
+  - Poorya ZareMoodi
+  - "Sajjad Kamali\_Siahroudi"
+  - Hamid Beigy
+  publisher: Knowledge and Information Systems
+  date: '2018-10-16'
+  link: https://doi.org/gf6c67
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TKDE.2018.2840998
+  title: Viral Cascade Probability Estimation and Maximization in Diffusion Networks
+  authors:
+  - Arman Sepehr
+  - Hamid Beigy
+  publisher: IEEE Transactions on Knowledge and Data Engineering
+  date: '2019-03-01'
+  link: https://doi.org/g9mrhv
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s12530-017-9193-9
+  title: A graph-theoretic approach toward autonomous skill acquisition in reinforcement
+    learning
+  authors:
+  - Seed Jalal Kazemitabar
+  - Nasrin Taghizadeh
+  - Hamid Beigy
+  publisher: Evolving Systems
+  date: '2017-06-22'
+  link: https://doi.org/gf9p7t
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.eswa.2017.08.033
+  title: 'Detection of evolving concepts in non-stationary data streams: A multiple
+    kernel learning approach'
+  authors:
+  - Sajjad Kamali Siahroudi
+  - Poorya Zare Moodi
+  - Hamid Beigy
+  publisher: Expert Systems with Applications
+  date: '2018-01-01'
+  link: https://doi.org/gg72z9
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.ipm.2017.04.002
+  title: On dynamicity of expert finding in community question answering
+  authors:
+  - Mahmood Neshati
+  - Zohreh Fallahnejad
+  - Hamid Beigy
+  publisher: Information Processing &amp; Management
+  date: '2017-09-01'
+  link: https://doi.org/gbsr5h
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.asoc.2016.12.006
+  title: Associative cellular learning automata and its applications
+  authors:
+  - Meysam Ahangaran
+  - Nasrin Taghizadeh
+  - Hamid Beigy
+  publisher: Applied Soft Computing
+  date: '2017-04-01'
+  link: https://doi.org/f93jpc
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.pone.0171240
+  title: Expectation propagation for large scale Bayesian inference of non-linear
+    molecular networks from perturbation data
+  authors:
+  - Zahra Narimani
+  - Hamid Beigy
+  - Ashar Ahmad
+  - Ali Masoudi-Nejad
+  - "Holger Fr\xF6hlich"
+  publisher: PLOS ONE
+  date: '2017-02-06'
+  link: https://doi.org/f9pnw5
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3233/IDA-150207
+  title: A novel concept drift detection method in data streams using ensemble classifiers
+  authors:
+  - Mahdie Dehghan
+  - Hamid Beigy
+  - Poorya ZareMoodi
+  publisher: Intelligent Data Analysis
+  date: '2016-11-08'
+  link: https://doi.org/g9mrhx
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s10115-015-0837-4
+  title: An ensemble of cluster-based classifiers for semi-supervised classification
+    of non-stationary data streams
+  authors:
+  - Mohammad Javad Hosseini
+  - Ameneh Gholipour
+  - Hamid Beigy
+  publisher: Knowledge and Information Systems
+  date: '2015-04-28'
+  link: https://doi.org/f79gpf
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3233/IFS-162093
+  title: Critic learning in multi agent credit assignment problem
+  authors:
+  - Zahra Rahaie
+  - Hamid Beigy
+  publisher: Journal of Intelligent &amp; Fuzzy Systems
+  date: '2016-04-30'
+  link: https://doi.org/f8mqq8
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3233/IDA-160836
+  title: 'Cascading randomized weighted majority: A new online ensemble learning algorithm'
+  authors:
+  - Mohammadzaman Zamani
+  - Hamid Beigy
+  - Amirreza Shaban
+  publisher: Intelligent Data Analysis
+  date: '2016-06-15'
+  link: https://doi.org/f8tmqj
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s11227-014-1330-7
+  title: A learning automata-based adaptive uniform fractional guard channel algorithm
+  authors:
+  - Hamid Beigy
+  - M. R. Meybodi
+  publisher: The Journal of Supercomputing
+  date: '2014-12-07'
+  link: https://doi.org/f648f8
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jocs.2015.03.007
+  title: Deployment and testing of the sustained petascale Blue Waters system
+  authors:
+  - Celso L. Mendes
+  - Brett Bode
+  - Gregory H. Bauer
+  - Jeremy Enos
+  - Cristina Beldica
+  - William T. Kramer
+  publisher: Journal of Computational Science
+  date: '2015-09-01'
+  link: https://doi.org/g9mrhz
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.neucom.2015.01.058
+  title: A dynamic shuffled differential evolution algorithm for data clustering
+  authors:
+  - Wan-li Xiang
+  - Ning Zhu
+  - Shou-feng Ma
+  - Xue-lei Meng
+  - Mei-qing An
+  publisher: Neurocomputing
+  date: '2015-06-01'
+  link: https://doi.org/g9mrh2
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.patcog.2013.10.004
+  title: Pair-copula based mixture models and their application in clustering
+  authors:
+  - Anandarup Roy
+  - Swapan K. Parui
+  publisher: Pattern Recognition
+  date: '2014-04-01'
+  link: https://doi.org/f5s3jt
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1179/1743131X13Y.0000000069
+  title: 'WISECODE: wise image segmentation based on community detection'
+  authors:
+  - A. A. Abin
+  - F. Mahdisoltani
+  - H. Beigy
+  publisher: The Imaging Science Journal
+  date: '2014-01-09'
+  link: https://doi.org/g9mrh3
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jnca.2013.01.007
+  title: Self adaptive routing for dynamic spectrum access in cognitive radio networks
+  authors:
+  - A. Cagatay Talay
+  - D. Turgay Altilar
+  publisher: Journal of Network and Computer Applications
+  date: '2013-07-01'
+  link: https://doi.org/g9mrh4
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s11227-014-1129-6
+  title: 'A localization algorithm for large scale mobile wireless sensor networks:
+    a learning approach'
+  authors:
+  - Samira Afzal
+  - Hamid Beigy
+  publisher: The Journal of Supercomputing
+  date: '2014-03-13'
+  link: https://doi.org/g9mrh5
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s10710-013-9206-9
+  title: A new real-coded Bayesian optimization algorithm based on a team of learning
+    automata for continuous optimization
+  authors:
+  - Behnaz Moradabadi
+  - Hamid Beigy
+  publisher: Genetic Programming and Evolvable Machines
+  date: '2013-10-16'
+  link: https://doi.org/f52whc
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.ipm.2013.10.001
+  title: Expert group formation using facility location analysis
+  authors:
+  - Mahmood Neshati
+  - Hamid Beigy
+  - Djoerd Hiemstra
+  publisher: Information Processing &amp; Management
+  date: '2014-03-01'
+  link: https://doi.org/f5v2hx
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s11280-013-0229-1
+  title: Integration of scientific and social networks
+  authors:
+  - Mahmood Neshati
+  - Djoerd Hiemstra
+  - Ehsaneddin Asgari
+  - Hamid Beigy
+  publisher: World Wide Web
+  date: '2013-06-21'
+  link: https://doi.org/gns9kv
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3233/IDA-140654
+  title: Expertness framework in multi-agent systems and its application in credit
+    assignment problem
+  authors:
+  - Zahra Rahaie
+  - Hamid Beigy
+  publisher: Intelligent Data Analysis
+  date: '2014-04-30'
+  link: https://doi.org/g75pps
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.patcog.2012.06.003
+  title: Improved direction estimation for Di Zenzo's multichannel image gradient
+    operator
+  authors:
+  - Lianghai Jin
+  - Hong Liu
+  - Xiangyang Xu
+  - Enmin Song
+  publisher: Pattern Recognition
+  date: '2012-12-01'
+  link: https://doi.org/gn3gtn
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s10844-012-0199-2
+  title: A new method of mining data streams using harmony search
+  authors:
+  - Zohre Karimi
+  - Hassan Abolhassani
+  - Hamid Beigy
+  publisher: Journal of Intelligent Information Systems
+  date: '2012-04-04'
+  link: https://doi.org/f38x2s
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1142/S146902681250023X
+  title: A NEW GENETIC ALGORITHM FOR MULTIPLE SEQUENCE ALIGNMENT
+  authors:
+  - ZAHRA NARIMANI
+  - HAMID BEIGY
+  - HASSAN ABOLHASSANI
+  publisher: International Journal of Computational Intelligence and Applications
+  date: '2012-12-01'
+  link: https://doi.org/g9mrh6
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1142/S1469026812500113
+  title: A GENETIC PROGRAMMING-BASED LEARNING ALGORITHMS FOR PRUNING COST-SENSITIVE
+    CLASSIFIERS
+  authors:
+  - ZAHRA NIKDEL
+  - HAMID BEIGY
+  publisher: International Journal of Computational Intelligence and Applications
+  date: '2012-06-01'
+  link: https://doi.org/g9mrh7
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.compeleceng.2011.04.013
+  title: Fuzzy identity based signature with applications to biometric authentication
+  authors:
+  - Piyi Yang
+  - Zhenfu Cao
+  - Xiaolei Dong
+  publisher: Computers &amp; Electrical Engineering
+  date: '2011-07-01'
+  link: https://doi.org/bwht23
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s11227-010-0423-1
+  title: Special issue on network-based high performance computing
+  authors:
+  - H. Sarbazi-Azad
+  - A. Shahrabi
+  - H. Beigy
+  publisher: The Journal of Supercomputing
+  date: '2010-03-19'
+  link: https://doi.org/dccm2k
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1080/00207720802145924
+  title: A learning automata-based algorithm for determination of the number of hidden
+    units for three-layer neural networks
+  authors:
+  - Hamid Beigy
+  - Mohamad Reza Meybodi
+  publisher: International Journal of Systems Science
+  date: '2009-01-01'
+  link: https://doi.org/b54nvm
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1142/S0218488509006315
+  title: 'ADAPTIVE LIMITED FRACTIONAL GUARD CHANNEL ALGORITHMS: A LEARNING AUTOMATA
+    APPROACH'
+  authors:
+  - HAMID BEIGY
+  - M. R. MEYBODI
+  publisher: International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems
+  date: '2009-12-01'
+  link: https://doi.org/cskt7h
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1142/S1469026809002618
+  title: CELLULAR LEARNING AUTOMATA BASED DYNAMIC CHANNEL ASSIGNMENT ALGORITHMS
+  authors:
+  - HAMID BEIGY
+  - M. R. MEYBODI
+  publisher: International Journal of Computational Intelligence and Applications
+  date: '2009-09-01'
+  link: https://doi.org/cjz3ns
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.automatica.2007.10.020
+  title: Robust control of flexible structures with stable bandpass controllers
+  authors:
+  - Alberto Cavallo
+  - Giuseppe De Maria
+  - Ciro Natale
+  - Salvatore Pirozzi
+  publisher: Automatica
+  date: '2008-05-01'
+  link: https://doi.org/fjtfch
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1142/S0219525907001264
+  title: OPEN SYNCHRONOUS CELLULAR LEARNING AUTOMATA
+  authors:
+  - HAMID BEIGY
+  - M. R. MEYBODI
+  publisher: Advances in Complex Systems
+  date: '2007-12-01'
+  link: https://doi.org/bpfxpk
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jfranklin.2005.06.006
+  title: A nonlinear inverse problem in estimating simultaneously the external forces
+    for a vibration system with displacement-dependent parameters
+  authors:
+  - Cheng-Hung Huang
+  publisher: Journal of the Franklin Institute
+  date: '2005-11-01'
+  link: https://doi.org/fgptrm
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1142/S0218488506004217
+  title: UTILIZING DISTRIBUTED LEARNING AUTOMATA TO SOLVE STOCHASTIC SHORTEST PATH
+    PROBLEMS
+  authors:
+  - HAMID BEIGY
+  - M. R. MEYBODI
+  publisher: International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems
+  date: '2006-10-01'
+  link: https://doi.org/dmvk4z
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.comcom.2004.12.009
+  title: A general call admission policy for next generation wireless networks
+  authors:
+  - Hamid Beigy
+  - M.R. Meybodi
+  publisher: Computer Communications
+  date: '2005-10-01'
+  link: https://doi.org/bdz7zr
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.compeleceng.2004.12.002
+  title: An adaptive call admission algorithm for cellular networks
+  authors:
+  - Hamid Beigy
+  - M.R. Meybodi
+  publisher: Computers &amp; Electrical Engineering
+  date: '2005-03-01'
+  link: https://doi.org/b83fd2
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1142/S0219525904000202
+  title: A MATHEMATICAL FRAMEWORK FOR CELLULAR LEARNING AUTOMATA
+  authors:
+  - HAMID BEIGY
+  - M. R. MEYBODI
+  publisher: Advances in Complex Systems
+  date: '2004-09-01'
+  link: https://doi.org/bjzc52
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/S0925-2312(01)00686-5
+  title: A note on learning automata-based schemes for adaptation of BP parameters
+  authors:
+  - M.R Meybodi
+  - H Beigy
+  publisher: Neurocomputing
+  date: '2002-10-01'
+  link: https://doi.org/dzbxfb
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1142/S012906570200090X
+  title: NEW LEARNING AUTOMATA BASED ALGORITHMS FOR ADAPTATION OF BACKPROPAGATION
+    ALGORITHM PARAMETERS
+  authors:
+  - M. R. MEYBODI
+  - H. BEIGY
+  publisher: International Journal of Neural Systems
+  date: '2002-02-01'
+  link: https://doi.org/crgmcs
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1142/S0129065701000655
+  title: BACKPROPAGATION ALGORITHM ADAPTATION PARAMETERS USING LEARNING AUTOMATA
+  authors:
+  - HAMID BEIGY
+  - MOHAMMAD R. MEYBODI
+  publisher: International Journal of Neural Systems
+  date: '2001-06-01'
+  link: https://doi.org/ddm5pp
+  plugin: sources.py
+  file: sources.yaml
