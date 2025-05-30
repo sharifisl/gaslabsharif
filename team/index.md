@@ -8,6 +8,18 @@ nav:
 # {% include icon.html icon="fa-solid fa-users" %}Members
 
 {% include section.html %}
+## Phd Students
+
+{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+
+## Master Students
+
+{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+
+
+## Graduated Students
 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 {% include list.html data="members" component="portrait" filter="role != 'pi'" %}
