@@ -1,6 +1,6 @@
 ---
 name: Ali Khoshtinat
-image: images/photo.jpg
+image: images/members/ali_khoshtinat.jpg
 description: Master's student
 role: master
 links:
