@@ -22,25 +22,10 @@ We are committed to ensuring our work is accessible to everyone, everywhere. Our
 {% endcapture %} 
 {% include feature.html image="images/opensource.jpg" link="projects" title="Our projects" text=text %}
 
+
+
 {% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%}
+We are a passionate team of researchers dedicated to advancing machine learning, deep learning, and generative AI systems, while fostering an inclusive and collaborative research environment that values diversity and innovation.
+{% include button.html link="team" text="Meet our team" icon="fas fa-arrow-right" flip=true %}
+{% endcapture %} 
+{% include feature.html image="images/photo.jpg" link="team" title="Our Members" text=text %}
