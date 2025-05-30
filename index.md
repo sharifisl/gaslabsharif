@@ -11,13 +11,9 @@ Generative AI Systems Lab at Sharif University of Technology brings together pas
 
 {% capture text %}
 We conduct research in artificial intelligence, focusing on machine learning and deep learning to develop innovative and intelligent systems.
-{% include button.html link="research" text="See what we've published" icon="fas fa-arrow-right" flip=true %} {:.center} 
+{% include button.html link="research" text="See what we've published" icon="fas fa-arrow-right" flip=true %}
 {% endcapture %} 
 {% include feature.html image="images/research.jpg" link="research" title="Generative AI + Creativity → Innovation" text=text %}
-
-
-
-{% endcapture %}
 
 {%
   include feature.html
