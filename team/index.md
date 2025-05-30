@@ -7,6 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Members
 
+Our lab at Sharif University is built on a foundation of active collaboration and mutual respect among its members. We strongly believe that diversity drives innovation, and we value the unique perspectives and backgrounds each member brings to our community.
+
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filter="role == 'phD'" %}
@@ -14,7 +16,7 @@ nav:
 {% include list.html data="members" component="portrait" filter="role == 'master'" %}
 
 
-## Graduated Students
+## Alumni
 
 {% include list.html data="members" component="portrait" filter="role == 'graduated'" %}
 
@@ -26,12 +28,12 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html %}
 
-{% capture content %}
+<!-- {% capture content %}
 
 {% include figure.html image="images/photo.jpg" %}
 {% include figure.html image="images/photo.jpg" %}
 {% include figure.html image="images/photo.jpg" %}
 
-{% endcapture %}
+{% endcapture %} -->
 
 {% include grid.html style="square" content=content %}
