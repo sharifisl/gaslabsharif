@@ -1,6 +1,6 @@
 ---
 name: Sahar Zal
-image: images/photo.jpg
+image: images/members/saharzal.jpeg
 role: master
 links:
   email: sahar.zal99@sharif.edu
